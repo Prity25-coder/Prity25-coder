@@ -1,11 +1,9 @@
 
-
-
-
-
-
 ### Hi there 👋, I'm Prity Kumari
-
+          
+          
+          
+          
 
 #### Full stack developer
 
@@ -21,5 +19,10 @@ Skills :     JS / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Prity25-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Prity Kumari/)  
+
+
+
+
+
 
 
