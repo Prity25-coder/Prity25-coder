@@ -13,8 +13,7 @@ I am a Full Stack Javascript Developer. Skilled in Bootstrap5, MongoDB, Node, Ex
 Skills :     JS / HTML / CSS
 
 
-- 🔭         I’m currently working on functional e-commerse website 
-- 
+- 🔭         I’m currently working on functional e-commerse website                                                                                     
 - 🌱        I’m currently learning js 
 
 
