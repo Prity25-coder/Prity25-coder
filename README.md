@@ -1,11 +1,11 @@
-<h1> Hi there 👋, I'm Prity Kumari </h1>
+<h1 align="center"> Hi there 👋, I'm Prity Kumari </h1>
 
           
           
           
           
 
-<h3>Full stack developer</h3>
+<h3 align="center">Full stack developer</h3>
 
 I am a Full Stack Javascript Developer. Skilled in Bootstrap5, MongoDB, Node, Express, React, C/C++, Python. Strong professional with a bachelor's of technology-focused in Computer Science & Engineering from B.P.Mandal College of Engineering, Madhepura ( Dept. Of Science & Technology, Govt. Of Bihar )
 
