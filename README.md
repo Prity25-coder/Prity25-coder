@@ -7,11 +7,14 @@
 
 <h3 align="center">Full stack developer</h3>
 
+
+
 - 🔭         I’m currently working on functional e-commerse website                                                                                     
 - 🌱        I’m currently learning js 
+- 
 
 
-Skills :      JS / HTML / CSS
+##  Skills :      JS / HTML / CSS
 
 
  
