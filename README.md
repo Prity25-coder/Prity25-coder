@@ -8,11 +8,11 @@
   <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🔭         I’m currently working on functional e-commerse website                                                                                     
-- 🌱        I’m currently learning js 
+- 🌱        I’m currently learning React js
  
 
 
-##  Skills :      JS / HTML / CSS
+##  Skills :     Java Script / React js / C / HTML / CSS
 
 
  
