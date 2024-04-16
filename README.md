@@ -12,7 +12,7 @@
  
 
 
-##  Skills :     Java Script / React js / Angular / Node Js / MongoDB / Swagger / HTML / CSS
+- 💬 Skills :     Java Script / React js / Angular / Node Js / MongoDB / Swagger / HTML / CSS
 
 
  
