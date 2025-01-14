@@ -5,7 +5,7 @@
 
 <h3 align="center">Full stack developer</h3>
 
-  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="220" />
 
 - 🔭         I’m currently working on functional e-commerse website                                                                                     
 - 🌱        I’m currently learning React js
@@ -18,8 +18,6 @@
  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Prity25-coder)  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prity-kumari07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prity-kumari07/" height="30" width="40" /></a>
 
 ## Languages and Tools
 <h3 align="left">Languages and Tools:</h3>
