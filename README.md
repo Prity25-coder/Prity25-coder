@@ -7,12 +7,13 @@
   <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="200" height="150" />
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prity&label=Profile%20views&color=0e75b6&style=flat" alt="prity" /> </p>
+
 - 🔭         I’m currently working on functional e-commerse website                                                                                     
 - 🌱        I’m currently learning React js
  
 
 
-- 💬 Ask Me About Skills :   Java Script / React js / Angular / Node Js / MongoDB / Swagger / HTML / CSS
+- 💬 Ask Me About Skills :   Java Script / React js / Angular / Node Js / MongoDB / Swagger / HTML / CSS/ 
 
 
 <h3 align="left">Languages and Tools:</h3>
