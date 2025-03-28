@@ -5,7 +5,7 @@
 
 <h3 align="center">Full stack developer</h3>
 
-  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="250" height="200" />
 
 - 🔭         I’m currently working on functional e-commerse website                                                                                     
 - 🌱        I’m currently learning React js
